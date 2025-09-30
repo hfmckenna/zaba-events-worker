@@ -43,13 +43,7 @@
 	"queues": {
 		"consumers": [
 			{
-				"queue": "my-queue"
-			}
-		],
-		"producers": [
-			{
-				"binding": "MY_QUEUE",
-				"queue": "my-queue"
+				"queue": "zaba-ingress-queue"
 			}
 		]
 	}
